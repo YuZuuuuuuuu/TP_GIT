@@ -1,0 +1,169 @@
+  419  git clone https://github.com/YuZuuuuuuuu/TP-GIT.git
+  420  ls
+  421  cd tp-git
+  422  cd TP-GIT
+  423  ls
+  424  git init
+  425  git config user.email "yanis.oulal@gmail.com"
+  426  git config user.name "YaskoL"
+  427  git pull origin master
+  428  ls
+  429  git rm lisence.MD
+  430  git branch
+  431  git branch -a
+  432  git branch Yanis
+  433  git checkout Yanis
+  434  nano test.txt
+  435  git add "test"
+  436  git add "test.txt"
+  437  git commit -m "Yanis"
+  438  git push -u origin Yanis
+  439  git rm LISENSE.md
+  440  git rm LICENSE.MD 
+  441  git rm index.html 
+  442  git rm README.MD 
+  443  git push -u origin Yanis
+  444  ls
+  445  git push -u origin Yanis
+  446  git branch
+  447  ls
+  448  nano mobile.css
+  449  nano menu.js
+  450  nano alerte.js
+  451  ls
+  452  nano lightbox.js
+  453  ls
+  454  nano alerte.js 
+  455  nano menu.js 
+  456  git push -u origin Yanis
+  457  git add alerte.js 
+  458  git add menu.js 
+  459  git add mobile.css 
+  460  git commit -m "Yanis"
+  461  ls
+  462  git push -u origin Yanis
+  464  git push -u origin Yanis
+  465  git branch
+  466  git branch -a
+  467  git checkout nassim
+  468  ls
+  469  git pull origin Yanis
+  470  ls
+  471  git push -u origin Yanis
+  472  git pull origin master
+  473  git push -u origin Yanis
+  474  git pull origin Yanis
+  475  git pull
+  476  git push -u origin Yanis
+  477  git add alerte.js 
+  478  git add menu.js 
+  479  ls
+  480  git add mobile.css 
+  481  git commit -m "Yanis"
+  482  git push -u origin Yanis
+  483  git pull origin master
+  484  git pull nassim
+  485  git checkout nassim
+  486  git checkout Christophe
+  487  git branch
+  490  git checkout Yanis
+  491  ls
+  492  git pull
+  497  ls
+  498  git push -u origin Yanis
+  499  git commit -m "Yanis"
+  500  git pull 
+  534  git branch 
+  537  git checkout Yanis
+  538  ls
+  539  nano mobile.css
+  540  nano alerte.js
+  541  ls
+  542  nano menu.js
+  543  ls
+  544  git alerte.js
+  545  git add alerte.js
+  546  git add menu.js 
+  547  git add mobile.css 
+  548  ls
+  549  git commit -m "Yanis"
+  550  git push origin Yanis
+  551  cat alerte.js
+  552  git nassim
+  553  ls
+  554  git branch nassim
+  555  ls
+  556  git checkout nassim
+  557  ls
+  558  git branch
+  559  git checkout Yanis
+  560  git -d nassim
+  561  git branch -d nassim
+  562  git checkout nassim
+  563  ls
+  564  cat index.html
+  565  nano index.html 
+  566  ls
+  567  git add index.html 
+  568  git push -u origin nassim
+  569  ls
+  570  git commit -m "V2"
+  571  git push -u origin nassim
+  572  ls
+  573  git branch -a
+  574  git checkout projetV1
+  575  ls
+  576  git merge Yanis
+  577  ls
+  578  git push -u origin projetV1
+  579  git add mobile.css 
+  580  git add menu.js 
+  581  git add alerte.js 
+  582  git commit -m "merge sur projetV1"
+  583  git pull
+  584  git status
+  585  git rm test.txt
+  586  git rm index.html 
+  587  git push -u origin projetV1
+  588  git commit -m "merge sur projetV1"
+  589  git push -u origin projetV1
+  590  ls
+  591  git merge nassim
+  592  git status
+  594  ls
+  595  git status
+  596  git merge nassim
+  597  git status
+  598  git commit -m "ajout de index.html"
+  599  git merge nassim
+  600  ls
+  601  git checkout nassim
+  602  ls
+  603  git checkout projetV1
+  604  git push
+  605  git push -u origin projetV1
+  606  git status
+  607  git pull
+  608  git status
+  609  ls
+  610  git status
+  611  git push 
+  615  ls
+  616  git status
+  617  cd ..
+  618  ls
+  619  git rm -r TP-GIT/
+  620  rm -r TP-GIT/
+  621  sudo rm -r TP-GIT/
+  622  git clone https://github.com/YuZuuuuuuuu/TP-GIT.git
+  623  cd TP-GIT/
+  624  git branch -a
+  625  git checkout projetV1
+  626  ls
+  627  open index.html
+  628  git branch
+  629  git pull
+  630  git checkout master
+  631  nano REGISTRE_Yanis.txt
+  632  touch REGISTRE_Yanis.txt
+  633  history
