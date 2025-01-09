@@ -1,0 +1,13 @@
+git init
+git config --global user.name "uchiw4"
+git config --global user.email "nassimuchwia75@gmail.com"
+git remote add origin https://github.com/YuZuuuuuuuu/TP-GIT.git
+git add *
+git commit -m "first commit"
+git push origin master
+git log
+git merge projetv1
+git branch nassim
+git branch
+git status
+git checkout nassim
