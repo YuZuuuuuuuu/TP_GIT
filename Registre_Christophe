@@ -1,0 +1,28 @@
+Christophe Yu
+
+cd Documents/
+git init
+git remote add origin https://github.com/YuZuuuuuuuu/TP-GIT.git
+git clone https://github.com/YuZuuuuuuuu/TP-GIT.git
+cd TP-GIT/
+git config user.name YuZuuuuuuuu
+git config user.email heki.bp@gmail.com
+touch LICENCE.md
+git add LICENCE.md
+git commit -m "cyu first commit"
+git pushh origin master
+
+git branch
+git branch Christophe
+git checout Christophe
+nano styles.css
+git add styles.css
+git commit -m "cyu css"
+git push origin Christophe
+
+git branch projetV1
+git checkout projetV1
+git merge nassim
+git merge Christophe
+
+git pull
