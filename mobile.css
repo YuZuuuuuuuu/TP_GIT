@@ -1,0 +1,30 @@
+@media screen and (max-width:600px) {
+
+    nav,
+    
+
+    main,
+    aside,
+    footer{
+        width: 100%;
+    }
+
+    main img{
+        width: 100%;
+    }
+
+    #menuMobile{
+        display: block;
+        position: fixed;
+        top: .6%;
+        right: 2%;
+        height: 2em;
+    }
+    nav{
+        display: none;
+    }
+    .helloNav{
+        display: block;
+    }
+    
+}
